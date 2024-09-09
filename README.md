@@ -26,7 +26,7 @@
   </div>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladlenalutsyuk)](https://github.com/anuraghazra/github-readme-stats)
-### :fire: My Stats :
+### :fire: Моя статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vladlenalutsyuk&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
