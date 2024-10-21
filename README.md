@@ -27,7 +27,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladlenalutsyuk)](https://github.com/anuraghazra/github-readme-stats)
 ### :fire: Моя статистика :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vladlenalutsyuk&theme=dark&background=000000)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vladlenalutsyuk&theme=transparent" alt="GitHub Streak" /></a>
 
 ﻿
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nerko+One&size=50&pause=1000&color=F766BF&width=500&height=70&repeat=false&lines=CSS_HTML_TASKS" alt="Typing SVG" /></a>
