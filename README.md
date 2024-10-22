@@ -43,6 +43,9 @@
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWV5azNpNG0zeGNmam1yd3ZtbXZ3dHEwanZ0bGN4djV2cmhldjZoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ptqAPgghLtHOa0SLJS/giphy.gif" width="60px"  align="middle" /> <a href="https://github.com/Vladlenalutsyuk/JavaScript" align="left">JAVA_SCRIPT_TASKS</a>
 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWV5azNpNG0zeGNmam1yd3ZtbXZ3dHEwanZ0bGN4djV2cmhldjZoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ptqAPgghLtHOa0SLJS/giphy.gif" width="60px"  align="middle" /> <a href="https://github.com/Vladlenalutsyuk/tea" align="left">PROJECT_TEA</a>
+
+
 
 
 
