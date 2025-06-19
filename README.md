@@ -59,6 +59,21 @@
 ### :round_pushpin: Репозитории :
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <div style="background: #00BFFF; padding: 20px; border-radius: 10px; width: 200px; text-align: center;">
+    <h3>react_code.mu</h3>
+    <p>Репозиторий с моими задачами по react</p>
+    <a href="https://github.com/Vladlenalutsyuk/react_code.mu" style="color: white;">Посмотреть</a>
+  </div>
+   <div style="background: #00BFFF; padding: 20px; border-radius: 10px; width: 200px; text-align: center;">
+    <h3>vue_code.mu</h3>
+    <p>Репозиторий с моими задачами по vue</p>
+    <a href="https://github.com/Vladlenalutsyuk/vue_code.mu" style="color: white;">Посмотреть</a>
+  </div>
+  <div style="background: #00BFFF; padding: 20px; border-radius: 10px; width: 200px; text-align: center;">
+    <h3>ad_2025</h3>
+    <p>Репозиторий с моим учебным проектом на VUE3</p>
+    <a href="https://github.com/Vladlenalutsyuk/ad_2025" style="color: white;">Посмотреть</a>
+  </div>
+  <div style="background: #00BFFF; padding: 20px; border-radius: 10px; width: 200px; text-align: center;">
     <h3>Css_Html_Tasks</h3>
     <p>Репозиторий с моими задачами по HTML и CSS.</p>
     <a href="https://github.com/Vladlenalutsyuk/css_html_tasks" style="color: white;">Посмотреть</a>
