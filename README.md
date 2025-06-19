@@ -47,15 +47,6 @@
 
 ---
 
-### :fire: Моя статистика :
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vladlenalutsyuk&theme=transparent" alt="GitHub Streak" /></a>
-  <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladlenalutsyuk&layout=compact&theme=blue-pink)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
----
-
 ### :round_pushpin: Репозитории :
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <div style="background: #00BFFF; padding: 20px; border-radius: 10px; width: 200px; text-align: center;">
